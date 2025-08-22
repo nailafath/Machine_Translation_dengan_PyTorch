@@ -32,4 +32,4 @@ Eksperimen yang dilakukan meliputi:
 - Evaluasi dengan SacreBLEU
 - Perbandingan beam search size terhadap kualitas terjemahan
 
-Detail hasil eksperimen dapat dilihat pada folder gambar_output
+Detail hasil eksperimen dapat dilihat pada folder `gambar_output`
