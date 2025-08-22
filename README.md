@@ -7,7 +7,9 @@ Eksperimen dilakukan untuk melatih model **Transformer** dengan berbagai konfigu
 
 ## 📂 Isi Repository
 - `machine-translation-dengan-pytorch.ipynb` → Notebook utama berisi kode training, evaluasi, dan eksperimen.  
-- `DAFTAR GAMBAR OUTPUT.pdf` → Kumpulan hasil output berupa grafik, tabel, dan ilustrasi hasil eksperimen.
+- `eng-in-dataset` → File yang digunakan untuk eksperimen.
+- `output_PyTorch` → Kumpulan file yang dihasilkan setelah melakukan eksperimen.
+- `gambar_output` → Kumpulan screenshoot dari hasil run cell code di kaggle.
 
 ---
 
