@@ -14,6 +14,7 @@ Eksperimen dilakukan untuk melatih model **Transformer** dengan berbagai konfigu
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
+   https://github.com/nailafath/Machine_Translation_dengan_PyTorch
 
 2. Install dependensi:
    pip install torch sentencepiece sacrebleu pandas matplotlib
